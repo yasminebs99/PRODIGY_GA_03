@@ -30,10 +30,9 @@ A Python-based project leveraging Markov Chains for generating coherent and cont
    git clone https://github.com/yasminebs99/Text-Generation-Markov-Chains.git
 ### 5. Getting More Information
 
-Link to your YouTube video demo: SOON
-the vedio describe each ligne of the code and how to use the interface
+Link to your YouTube video demo: https://youtu.be/KZgg1gqFYBA
+the vedio describe each ligne of the code
 
-Link to LinkedIn post about the project: SOON
 
 ### 6. Contact
 
